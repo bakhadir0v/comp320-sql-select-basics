@@ -1,0 +1,3 @@
+SELECT *
+FROM simple_authors 
+WHERE birth BETWEEN '1920-01-01' AND '1940-01-01'
